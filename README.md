@@ -99,3 +99,4 @@ AWS deployment and live integration testing should be documented only after they
 ## Author
 
 CloudOps Sentinel — AWS Cloud Security and DevOps Portfolio Project
+CloudOps Sentinel — AWS Cloud Security and DevOps Portfolio Project

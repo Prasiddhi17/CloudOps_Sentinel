@@ -1,0 +1,18 @@
+
+{
+  "id": "test-event-001",
+  "source": "aws.signin",
+  "detail-type": "AWS API Call via CloudTrail",
+  "detail": {
+    "eventID": "test-event-001",
+    "eventName": "ConsoleLogin",
+    "eventTime": "2026-11-25T10:00:00Z",
+    "sourceIPAddress": "192.0.2.10",
+    "userIdentity": {
+      "userName": "test-user"
+    },
+    "responseElements": {
+      "ConsoleLogin": "Failure"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+terraform/tfplan
+*.tfvars
+!terraform.tfvars.example
+terraform/lambda.zip
+
+# Secrets
+.env
+*.pem
+*.key
